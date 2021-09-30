@@ -1,6 +1,6 @@
 /*   STEP 1   */
-export const leagueID = "698970301966417920"; // your league ID
-export const leagueName = "OG"; // your league name
+export const leagueID = "667170136226095104"; // your league ID
+export const leagueName = "100 Octane ⛽"; // your league name
 export const dues = 50; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
